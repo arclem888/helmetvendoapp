@@ -3,7 +3,7 @@
 
 # Download App
 To download the latest app for 3 stage, please click:
-![Download Helmet Vendo App](https://github.com/arclem888/helmetvendoapp/releases/download/v3.1.0/HelmetVendo3stage.apk
+[Download Helmet Vendo App](https://github.com/arclem888/helmetvendoapp/releases/download/v3.1.0/HelmetVendo3stage.apk)
 
 # How to use the app.
 ## 1. Open App and choose the corresponding bluetooth if already paired. Hold the blue button on the kit then press the red button and wait for BT enabled to appear.
